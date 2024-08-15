@@ -1,9 +1,8 @@
-# Full Name 
+# Shreyas A S
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+Final year B.Tech student at University College of Engineering, Kariavattom. I have extensive experience in web development, specializing in ReactJS. Additionally, I dabble in mobile development using Flutter and no-code platforms like Thunkable. My years of using Linux have honed my programming skills, making me proficient with Linux and comfortable with the command-line interface. I also possess strong practical knowledge of version control systems such as Git and GitHub. Furthermore, I am familiar with cloud computing platforms like AWS, Netlify, and Vercel. Bash scripting, Python, Lua, and Javascript are some of the other technical skills I possess.
 
 ### Portfolio Highlights
 
